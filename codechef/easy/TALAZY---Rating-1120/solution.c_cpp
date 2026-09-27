@@ -1,0 +1,41 @@
+#include <iostream>
+
+using namespace std;
+
+void solve() {
+    long long n, b, m;
+    cin >> n >> b >> m;
+    
+    long long total_time = 0;
+    
+    while (n > 0) {
+        // Number of problems he solves in this session
+        long long k = (n + 1) / 2;
+        
+        // Time taken to solve k problems
+        total_time += k * m;
+        
+        // Remaining problems
+        n -= k;
+        
+        // If there are still problems left, take a break and double the time per problem
+        if (n > 0) {
+            total_time += b;
+            m *= 2;
+        }
+    }
+    
+    cout << total_time << "\n";
+}
+
+int main() {
+   
+    
+    int t;
+    if (cin >>t) {
+        while (t--) {
+            solve();
+        }
+    }
+
+}
