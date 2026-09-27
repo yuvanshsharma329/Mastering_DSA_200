@@ -47,3 +47,14 @@
 *Last updated: 2026-09-26* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
