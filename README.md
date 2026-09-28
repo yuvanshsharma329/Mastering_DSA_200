@@ -48,3 +48,18 @@
 *Last updated: 2026-09-27* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+<!---LeetCode Topics End-->
