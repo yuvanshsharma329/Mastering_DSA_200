@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -62,4 +63,24 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
