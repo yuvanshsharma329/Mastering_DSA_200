@@ -94,18 +94,22 @@
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
