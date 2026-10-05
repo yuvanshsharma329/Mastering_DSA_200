@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -66,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -112,4 +114,8 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
