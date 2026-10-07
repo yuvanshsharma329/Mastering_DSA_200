@@ -48,3 +48,10 @@
 *Last updated: 2026-10-06* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+<!---LeetCode Topics End-->
