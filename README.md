@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -62,4 +63,5 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
