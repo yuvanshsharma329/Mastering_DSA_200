@@ -95,4 +95,16 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
