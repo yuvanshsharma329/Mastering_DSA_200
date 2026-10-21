@@ -59,6 +59,7 @@
 | [0169-majority-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0088-merge-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
