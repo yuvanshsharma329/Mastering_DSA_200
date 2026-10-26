@@ -48,3 +48,18 @@
 *Last updated: 2026-10-22* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
+<!---LeetCode Topics End-->
