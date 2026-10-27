@@ -53,10 +53,12 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
