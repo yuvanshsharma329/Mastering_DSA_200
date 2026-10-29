@@ -48,3 +48,14 @@
 *Last updated: 2026-10-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
