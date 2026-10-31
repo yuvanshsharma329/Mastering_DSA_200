@@ -48,3 +48,14 @@
 *Last updated: 2026-10-30* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
+<!---LeetCode Topics End-->
