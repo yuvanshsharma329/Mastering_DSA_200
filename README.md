@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
@@ -60,4 +61,20 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvanshsharma329/DSA_TOP_QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
